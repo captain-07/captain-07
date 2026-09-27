@@ -116,20 +116,6 @@ An async, production-shaped webhook delivery engine — fan-out via Celery with 
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/captain-07/captain-07/output/github-contribution-grid-snake.svg" width="100%"/>
-<!--END_SECTION:snake-->
-
-*(Set up in ~2 minutes — see setup note below)*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%"/>
-
-<div align="center">
-
 ### 💬 Let's Connect
 
 I'm currently open to **backend engineering roles** at fintech and B2B SaaS companies.
